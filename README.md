@@ -1,16 +1,36 @@
-# bmi_app
+# BMI Check App
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+The BMI Check app is a Flutter-based health assessment application that allows users to calculate and monitor their Body Mass Index (BMI). This intuitive and user-friendly app provides instant feedback on one's BMI status through dynamic background color changes, helping users make informed decisions about their health.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **BMI Calculation:** Easily calculate your BMI by entering your weight and height.
+- **Visual Feedback:** The app dynamically changes the background color based on your BMI status:
+  - Red for underweight.
+  - Orange for overweight.
+  - Green for a healthy weight range.
+- **User-Friendly:** Intuitive interface for seamless navigation and BMI assessment.
+   
+## Contribution
+
+We welcome contributions from the community. If you'd like to contribute to this project, please follow these guidelines:
+
+- Fork the repository and create your branch.
+- Submit Pull Requests to the `development` branch.
+- Ensure your code follows best practices and is well-documented.
+- Test thoroughly before submitting your changes.
+
+
+
+## Contact
+
+If you have any questions or suggestions, please feel free to reach out to us:
+
+- Email: sydunnabituhin@gmail.com
+
+
+We appreciate your interest and hope you find the BMI Check app helpful!
